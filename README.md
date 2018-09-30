@@ -1,4 +1,4 @@
-# 와이더플래닛 코딩테스트
+# 코딩테스트
 # Problem 1
 
 from pyspark.sql import SQLContext
